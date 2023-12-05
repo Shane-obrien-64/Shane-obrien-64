@@ -1,7 +1,11 @@
 <h1 align="center"> Greetings! I'm Shane O'Brien,</h1>
-<h3 align="center">a dynamic and creative Full-Stack Web Developer with a passion for leveraging technology to overcome challenges in the ever-evolving tech landscape. Currently seeking new opportunities in the tech space. Excited about the prospect of contributing to innovative projects. Feel free to reach out for networking, collaboration, or discussions on how my skills and experiences align with the goals of your organization.</h3>
+<h3 align="center">A passionate Full-Stack Web Developer based in Orlando, FL. My coding journey began in 2022, and I've been on an exciting quest to explore the vast realms of technology ever since.
 
-- 🌱 I’m currently learning **Python, SQL, and more!**
+I specialize in react and node, with a keen interest in frontend development. Whether it's crafting elegant code, solving complex problems, or diving into the latest tech trends, I'm always up for the challenge.
+
+Currently, I'm learning Python and SQL, and polishing my Portfolio.
+
+When not immersed in the world of coding, you can find me playing guitar or in the kitchen. I'm a firm believer in lifelong learning, so I'm constantly exploring new technologies and expanding my skill set.</h3>
 
 - 📫 How to reach me **shane.g.obrien@gmail.com.**
 
