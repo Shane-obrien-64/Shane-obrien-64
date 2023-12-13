@@ -1,13 +1,13 @@
-<h1 align="center"> Greetings! I'm Shane O'Brien,</h1>
-<p>A passionate Full-Stack Web Developer based in Orlando, FL. My coding journey began in 2022, and I've been on an exciting quest to explore the vast realms of technology ever since.
+<h1> Greetings! I'm Shane O'Brien,</h1>
+<p>A passionate Full-Stack Web Developer based in Orlando, FL. Transitioning from a background in digital marketing and sound engineering, I am now embarking on a technical journey that seamlessly blends my diverse experiences.
 
-I specialize in React and Node, with a keen interest in frontend development. Whether it's crafting elegant code, solving complex problems, or diving into the latest tech trends, I'm always up for the challenge.
+My coding exploration began in 2022, and ever since, I've been on a captivating quest to delve into the expansive realms of technology. Specializing in React and Node, my focus lies in frontend development, where I strive to craft elegant code and solve complex problems.
 
-Currently, I'm learning Python and SQL, and polishing my Portfolio.
+Currently, I am broadening my expertise by delving into Python and SQL while refining my portfolio. Beyond coding, you'll find me strumming the guitar or experimenting with new recipes in the kitchen.
 
-When not immersed in the world of coding, you can find me playing guitar or in the kitchen trying new recipes. I'm a firm believer in lifelong learning, so I'm constantly exploring new technologies and expanding my skill set.</p>
+As a firm believer in lifelong learning, I am consistently exploring new technologies to expand my skill set. I'm enthusiastic about the intersection of creativity and technology, and I'm always up for the challenge of incorporating diverse experiences into my coding endeavors.</p>
 
-- 📫 How to reach me **shane.g.obrien@gmail.com.**
+- 📫 connect with me **shane.g.obrien@gmail.com.**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
